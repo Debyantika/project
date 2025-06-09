@@ -1,0 +1,22 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "a basic web to deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Debyantika/project.git"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Debyantika/project/issues"
+  },
+  "homepage": "https://github.com/Debyantika/project#readme"
+}
