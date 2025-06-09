@@ -1,22 +1,22 @@
 {
   "name": "project",
   "version": "1.0.0",
-  "description": "a basic web to deploy",
+  "description": "",
   "main": "index.js",
-  "scripts": 
-      "start":"node index.js" 
-     },
+  "scripts": {
+    "start": "node index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Debyantika/project.git"
   },
-  "keywords": [
-    "project"
-  ],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Debyantika/project/issues"
   },
-  "homepage": "https://github.com/Debyantika/project#readme"
+  "homepage": "https://github.com/Debyantika/project#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
